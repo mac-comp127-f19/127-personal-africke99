@@ -1,5 +1,6 @@
 package activityStarterCode;
 
+import activityStarterCode.basicClasses.ListFormatting;
 import org.junit.jupiter.api.Test;
 
 import java.util.List;
